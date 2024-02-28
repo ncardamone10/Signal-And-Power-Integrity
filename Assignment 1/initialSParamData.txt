@@ -1,0 +1,3 @@
+Frequency (MHz)	Re(S(1,1)) : EM_Extract_Doc	Im(S(1,1)) : EM_Extract_Doc	Re(S(2,1)) : EM_Extract_Doc	Im(S(2,1)) : EM_Extract_Doc	Re(S(1,2)) : EM_Extract_Doc	Im(S(1,2)) : EM_Extract_Doc	Re(S(2,2)) : EM_Extract_Doc	Im(S(2,2)) : EM_Extract_Doc
+1000	0.11011	0.179528	0.841049	-0.472605	0.841049	-0.472605	0.110117	0.179472
+2000	0.296799	0.189325	0.510002	-0.762584	0.510002	-0.762584	0.296735	0.189202
